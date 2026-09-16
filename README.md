@@ -25,10 +25,38 @@ to a clean, analysis-ready dataset.
 
 | Folder | Status | Description |
 |---|---|---|
-| **Banking-Finance-Analysis** | ✅ Active | Customer, account and transaction analysis |
+| **Banking-Finance-Analysis** | ✅ Complete | Customer, account and transaction analysis — SQL + Power BI dashboard |
 | **Retail-Sales-Analysis** | 🔜 Coming Soon | Sales performance and product insights |
 | **Healthcare-Analytics** | 🔜 Coming Soon | Patient admissions and treatment analysis |
 | **HR-Workforce-Analysis** | 🔜 Coming Soon | Employee performance and payroll insights |
+
+---
+
+## ✅ Project 1 — Banking & Finance Analysis
+
+**Status: Complete**
+
+A full end-to-end data analytics project simulating a junior
+data analyst role at a fictional bank. Raw messy data across
+three tables was explored, cleaned and transformed using SQL,
+then visualised in a professional Power BI dashboard.
+
+| Detail | Info |
+|---|---|
+| **Dataset** | 5,600 rows across 3 tables |
+| **SQL Platform** | Databricks |
+| **BI Tool** | Power BI Desktop |
+| **Cleaning Functions** | TRIM, UPPER, INITCAP, NULLIF, COALESCE, TRY_CAST, CASE, ROW_NUMBER |
+| **Dashboard Pages** | Overview, Customer Analysis, Account Analysis, Transaction Analysis, Branch Performance |
+
+**Key Findings:**
+- 36.9% of transactions failed — a critical operational risk
+- 47% of customers have Poor credit scores despite high incomes
+- Online channel accounts for 54.9% of all transactions
+- Mall Branch leads revenue at $8.6M, Eastside at $5.2M
+- 80.55% of accounts are Active — healthy retention rate
+
+📂 [View Project →](./Banking-Finance-Analysis/)
 
 ---
 
@@ -148,4 +176,4 @@ and Business Intelligence using Power BI.
 
 ## 📌 Status
 
-🟢 Active — new projects added regularly as skills develop.
+🟢 Active — Project 1 complete. New projects added regularly.
